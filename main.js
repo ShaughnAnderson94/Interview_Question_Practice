@@ -1,6 +1,6 @@
 /// Example Question: What does the following code do? ///
 
-// let array = [1,2,3,4,5]
+//  let array = [1,2,3,4,5]
 
 // for (i =1; i < array.length; i= i +2) {
 //     console.log(array[i] +2);
@@ -46,7 +46,7 @@ it is easier to type */
 
 // let testarray = [1,'a',0,'false',100];
 
-//  for (i =0; i < 5; i= i + 1) {
+//  for (i =0; i < 5; i = i+1) {
 //   console.log("at this index " + testarray[i] );
 //  }
 
@@ -122,14 +122,14 @@ trouble understanding what they do. In simple
 terms these are used to add and remove from the
 start or end of arrays */
 
-//let array = [1,2,3,4,5];
+// let array = [1,2,3,4,5];
 
 //array.shift();
-// array.unshift('hi');
+ //array.unshift('hi');
 //array.push('bye');
 //array.pop();
 
-//console.log(array);
+// console.log(array);
 
 
 
@@ -157,7 +157,7 @@ value and gives you its index replace c with other
 letter in the array to see it in action find*/
 
 // let array = ['a','b','c','d','e'];
-// console.log(array.indexOf('2'));
+// console.log(array.indexOf('d'));
 
 
 
