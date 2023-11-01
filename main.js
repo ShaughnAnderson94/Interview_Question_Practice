@@ -124,10 +124,10 @@ start or end of arrays */
 
 // let array = [1,2,3,4,5];
 
-//array.shift();
- //array.unshift('hi');
-//array.push('bye');
-//array.pop();
+// // array.shift();
+// //  array.unshift('hi');
+// // array.push('bye');
+// // array.pop();
 
 // console.log(array);
 
@@ -145,6 +145,15 @@ copy from*/
 // let newarray = array.slice(1,4);
 // console.log(newarray);
 
+
+/// .splice ///
+
+/* lets you both delete and add from a chosen point in an array
+play with the arguments bellow to alter the array*/
+
+// let array = ['a','b','c','d','e'];
+//  array.splice(0,1,5);
+// console.log(array);
 
             ///////////////////////////////
             ////Searching through array////
